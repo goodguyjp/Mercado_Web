@@ -1,0 +1,35 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "name": "banana",
+        "imagen": "banana.png"
+      },
+      {
+        "id": 2,
+        "name": "Cebollas",
+        "imagen": "cebollas.png"
+      },
+      {
+        "id": 3,
+        "name": "Lechuga",
+        "imagen": "lechuga.png"
+      },
+      {
+        "id": 4,
+        "name": "Papas",
+        "imagen": "papas.png"
+      },
+      {
+        "id": 5,
+        "name": "Pimenton",
+        "imagen": "pimenton.png"
+      },
+      {
+        "id": 6,
+        "name": "Tomate",
+        "imagen": "tomate.png"
+      }
+     
+    ]
+  }
